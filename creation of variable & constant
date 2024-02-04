@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>variable</title>
+</head>
+<body>
+
+<script type="text/javascript">
+	const pie=3.1415926535897932384626433832795;
+	let radius=9;
+	console.log(pie*radius*radius);
+	//let a='sanjit';
+	//console.log(a);
+
+</script>
+</body>
+</html>
